@@ -50,8 +50,8 @@ Watch the project demo here:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/anmolthakur74/SpeakAble-Project.git
-cd SpeakAble-Project
+git clone https://github.com/anmolthakur74/SpeakAble.git
+cd SpeakAble
 ```
 
 ### 2. Create and activate a virtual environment (optional but recommended)
