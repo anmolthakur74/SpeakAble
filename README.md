@@ -1,4 +1,4 @@
-# Title: Real-Time Sign Language Recognition (Problem Statement 7)
+# Problem Statement 7: Real-Time Sign Language Recognition
 
 ## Project Name: SpeakAble
 
