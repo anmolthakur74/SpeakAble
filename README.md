@@ -1,6 +1,6 @@
 # Title: Real-Time Sign Language Recognition (Problem Statement 7)
 
-# Project Name: SpeakAble
+## Project Name: SpeakAble
 
 **SpeakAble** is an AI-powered real-time communication system designed to bridge the gap between individuals who are deaf, mute, or blind. It combines gesture recognition, speech-to-text, and text-to-speech to enable inclusive, accessible conversations.
 
