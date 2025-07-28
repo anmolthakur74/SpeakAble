@@ -75,7 +75,7 @@ python predict_webcam.py
 
 ---
 
-## 📝 Requirements
+## Requirements
 
 - Python 3.8+
 - Webcam
@@ -88,8 +88,8 @@ python predict_webcam.py
 
 **Anmol Thakur**  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/anmolthakur74)  
-🔗 [GitHub](https://github.com/anmolthakur74)
+[LinkedIn](https://www.linkedin.com/in/anmolthakur74)  
+[GitHub](https://github.com/anmolthakur74)
 
 ---
 
