@@ -24,7 +24,7 @@ Watch the project demo here:
 
 ## Features
 
-- Real-time hand gesture recognition (letters, commands like `space`, `del`, `end`)
+- Real-time hand gesture recognition
 - Speech-to-text input for blind-to-mute communication
 - Text-to-speech output for mute-to-blind interaction
 - Stable prediction buffering and autocorrect
@@ -34,14 +34,12 @@ Watch the project demo here:
 
 ## Technologies Used
 
-- **Python**
-- **OpenCV**, **MediaPipe** – Hand tracking
-- **scikit-learn**, **joblib** – Gesture classification
-- **pyttsx3** – Text-to-speech (offline)
-- **SpeechRecognition**, **PyAudio** – Speech-to-text
-- **TensorFlow / MLP / XGBoost** – Model training
-
----
+- **Python** – Core language
+- **OpenCV** & **MediaPipe** – Real-time hand tracking via webcam
+- **scikit-learn** & **joblib** – Model training and serialization
+- **TensorFlow**, **XGBoost**, **MLPClassifier** – Ensemble gesture classification
+- **pyttsx3** – Offline Text-to-Speech output
+- **SpeechRecognition** & **PyAudio** – Online Speech-to-Text using Google Web Speech API
 
 ---
 
