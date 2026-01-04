@@ -13,13 +13,6 @@
 
 ---
 
-## Demo Video
-
-Watch the project demo here:  
-[Demo Video Link](https://drive.google.com/file/d/19K0c7B-3wHCzISheGRyOPX4ge4ACASNq/view?usp=sharing)
-
----
-
 ## Features
 
 - Real-time hand gesture recognition
