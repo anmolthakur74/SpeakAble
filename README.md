@@ -1,8 +1,6 @@
-# Problem Statement 7: Real-Time Sign Language Recognition
-
 ## Project Name: SpeakAble
 
-**SpeakAble** is an AI-powered real-time communication system designed to bridge the gap between individuals who are deaf, mute, or blind. It combines gesture recognition, speech-to-text, and text-to-speech to enable inclusive, accessible conversations.
+**SpeakAble** is an AI-driven real-time communication system that bridges the gap for people with sensory impairments, including visual, hearing, and speech impairments. It uses gesture recognition, speech-to-text, and text-to-speech to enable inclusive, accessible conversations.
 
 ---
 
@@ -11,7 +9,7 @@
 - Recognize hand gestures using computer vision and machine learning
 - Convert recognized gestures into text and speech
 - Convert spoken audio into text in real-time
-- Enable communication between deaf, mute, and blind users
+- Enables communication between users with hearing, speech, and visual impairments
 
 ---
 
@@ -25,8 +23,8 @@ Watch the project demo here:
 ## Features
 
 - Real-time hand gesture recognition
-- Speech-to-text input for blind-to-mute communication
-- Text-to-speech output for mute-to-blind interaction
+- Speech-to-text enabling blind-to-non-verbal communication
+- Text-to-speech enabling non-verbal-to-blind interaction
 - Stable prediction buffering and autocorrect
 - Clean UI with live output overlay
 
