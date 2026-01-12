@@ -47,7 +47,11 @@ cd SpeakAble
 
 ```bash
 python -m venv gesture_env
-gesture_env\Scripts\activate  # For Windows
+# For PowerShell
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+.\gesture_env\Scripts\Activate.ps1
+# For Command Prompt
+gesture_env\Scripts\activate.bat
 ```
 
 ### 3. Install the dependencies
